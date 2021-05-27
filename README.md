@@ -1,7 +1,7 @@
 # Hey, I'm Brandon Collette 👋   
 
 ## About Me
-I am a hardworking individual driven by passion and the love for my family. I have 5+ years experience as an assembler/composition 
+I am a hardworking individual driven by passion and the love for my family. I have 5+ years experience as an assembler/composite 
 technician but recently turned a new leaf as I attended Learning Fuze coding boot camp and am now pursuing a career in web development.
 
 ## Skills
