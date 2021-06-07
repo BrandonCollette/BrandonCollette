@@ -1,8 +1,7 @@
 # Hey, I'm Brandon Collette 👋   
 
 ## About Me
-I am a hardworking individual driven by passion and the love for my family. I have 5+ years experience as an assembler/composite 
-technician but recently turned a new leaf as I attended Learning Fuze coding boot camp and am now pursuing a career in web development.
+Hello, my name is Brandon Collette, a passionate web developer dedicated to producing and delivering high quality work. Learned web development and built applications in collaboration with other students at the Learning Fuze coding program. Enthused to learn new skills that better the team and myself. Looking to obtain a position as a web developer.
 
 ## Skills
  _**Strong**_: JavaScript(ES5/ES6), React.js, Node.js, HTML5, CSS3, Express, jQuery, PostgreSQL, Bootstrap 4, Flexbox, RESTful APIs (Ajax, Fetch), Express, HTTPie
@@ -15,6 +14,11 @@ _**GAMESCORE**_ | [Code](https://github.com/BrandonCollette/video-game-app) | [L
 * Implemented Node.js and Express for server-side management and utilized PostgreSQL for game data.
 * Designed API endpoints allowing user to add new ratings, add comments, delete comments, and to view ratings and
 comments for any video game.
+
+_**HALO MEMORY MATCH**_ | [Code](https://github.com/BrandonCollette/portfolio/tree/main/memory_match) | [Live](https://brandoncollette.github.io/portfolio/memory_match/index.html)
+* Test the users memory with a memory match card game built with JavaScript.
+* Given a Halo video game theme using HTML and CSS.
+* Shuffles cards and keeps track of stats such as games played, attempts, and accuracy.
 
 ## Contact Me
 Resume: [Brandon Collette](https://drive.google.com/file/d/17-Ey6YP0CyI4xtWuKDOhgrd-6aa-MDBs/view)  
