@@ -21,7 +21,7 @@ _**HALO MEMORY MATCH**_ | [Code](https://github.com/BrandonCollette/portfolio/tr
 * Shuffles cards and keeps track of stats such as games played, attempts, and accuracy.
 
 ## Contact Me
-Resume: [Brandon Collette](https://drive.google.com/file/d/1QF2XJCS21FYkTWcapVTf0y9m74tWKJk1/view?usp=sharing)  
+Resume: [Brandon Collette]([https://drive.google.com/file/d/1QF2XJCS21FYkTWcapVTf0y9m74tWKJk1/view?usp=sharing](https://drive.google.com/file/d/1d0ApQRKZPXnrFXaaQa1Bd1dw9YPpHQ1R/view?usp=sharing))  
 LinkedIn: [/brandoncollette](https://www.linkedin.com/in/brandoncollette/)   
 Email: brandoncollette24@gmail.com   
 Phone: 951-551-9784   
